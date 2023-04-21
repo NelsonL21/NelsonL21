@@ -2,6 +2,10 @@
 
 ### Jr. Data Scientist
 
+<div id= "header" align = "center">
+ <img src= "https://drive.google.com/file/d/15l3nt0BCiWb1A138Us1HYmAiFjQ29kPs/view?usp=sharing">
+</div>
+
 #### About me:
 Diligent, responsible and organized junior data scientist with 9 months of project experience. Eager to leverage my visualization and statistical analysis skills to boost business sales and growth. In my current position, the availability and reliability of the equipment was increased by 30% thanks to the probabilistic analysis algorithm that I designed, which allows determining the probability of failure of each of the more than 30 machines.
 
