@@ -1,6 +1,6 @@
 # Hello, my name is Nelson Lucena
 
-### Jr. Data Scientist
+### Data Scientist
 
 ![Image](https://github.com/NelsonL21/NelsonL21/blob/main/Data%20Science2.jpg)
 
